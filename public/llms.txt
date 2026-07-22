@@ -1,0 +1,136 @@
+# بيت الحكمة (Bayt Al-Hikma) — Generative Engine Optimization Map
+
+> Bayt Al-Hikma (House of Wisdom) is a spiritually rich Arabic educational platform founded around the teachings and biography of Maliha Muslimani, focusing on Sufism, Islamic wisdom, and self-knowledge. The platform blends free and premium content — including Sufi chants, spiritual articles, educational videos, PDF books, and private courses — all wrapped in a serene turquoise aesthetic inspired by Islamic geometric art and Mandala motifs. The overarching philosophy is captured in the timeless wisdom: 'He who knows himself knows his Lord.' The platform supports PayPal payments and offers both full subscription access and à-la-carte content purchasing.
+
+---
+
+## Pages
+
+### الرئيسية
+https://bayt-al-hikma-c32e5558.zappy5.app
+منصة بيت الحكمة تفتح لك أبواب الحكمة الصوفية والتعلم الروحي. استمتع بمكتبة فيديوهات كاملة مجانية الاستخدام، أناشيد عرفانية، ومقالات ملهمة. ابدأ رحلتك الآن واكتشف سر &#39;من عرف نفسه فقد عرف ربه&#39;.
+
+### مسارات التعلم
+https://bayt-al-hikma-c32e5558.zappy5.app/learning-paths
+استكشف مسارات التعلم المصممة بعناية لتغوص في أعماق التصوف والحكمة الإسلامية. فيديوهات تعليمية كاملة مجانية الاستخدام تنتظرك لتحميلها ومشاهدتها متى شئت. اخطُ خطوتك الأولى نحو النور.
+
+### السماع والعرفان
+https://bayt-al-hikma-c32e5558.zappy5.app/samaa-irfan
+انغمس في عالم السماع والعرفان مع أناشيد صوفية آسرة ومقاطع فيديو كاملة مجانية. حمّلها للاستماع دون اتصال ودع كل نغمة تلامس أعماقك. اضغط واستمع لأسرار العارفين.
+
+### التعلم البصري
+https://bayt-al-hikma-c32e5558.zappy5.app/visual-learning
+افتح عينيك على جماليات التعلم البصري المستوحاة من الزخرفة الإسلامية والماندالا. فيديوهات تعليمية مجانية كاملة ودروس بصرية مذهلة في انتظارك. ابدأ المشاهدة الآن وارتقِ بروحك.
+
+### المسار الخاص والسيرة
+https://bayt-al-hikma-c32e5558.zappy5.app/private-path-biography
+رحلة حميمية في سيرة مليحة مسلماني وتعاليمها الروحية الفريدة. احصل على فيديوهات حصرية كاملة مجانية الاستخدام وكتب PDF نادرة. ادخل إلى دائرة العارفين الخاصة الآن.
+
+### اتصل بنا
+https://bayt-al-hikma-c32e5558.zappy5.app/contact
+هل لديك سؤال عن مساراتنا الروحية أو تحتاج مساعدة في الوصول للمحتوى التعليمي المجاني؟ فريق بيت الحكمة ينتظر رسالتك. اتصل بنا اليوم وافتح قناة تواصل مع منبع الحكمة.
+
+### Cart
+https://bayt-al-hikma-c32e5558.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://bayt-al-hikma-c32e5558.zappy5.app/checkout
+תשלום
+
+### Login
+https://bayt-al-hikma-c32e5558.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://bayt-al-hikma-c32e5558.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://bayt-al-hikma-c32e5558.zappy5.app/order-success
+תודה שנרשמת לקורס
+
+### شكراً لك | بيت الحكمة
+https://bayt-al-hikma-c32e5558.zappy5.app/thank-you
+بيت الحكمة (Bayt Al-Hikma) - شكراً لك | بيت الحكمة
+
+### Courses
+https://bayt-al-hikma-c32e5558.zappy5.app/courses
+Browse all available courses.
+
+### Course Category
+https://bayt-al-hikma-c32e5558.zappy5.app/category/:slug
+Browse courses in this category.
+
+### Course Detail
+https://bayt-al-hikma-c32e5558.zappy5.app/courses/:slug
+Course details and curriculum.
+
+### Lesson
+https://bayt-al-hikma-c32e5558.zappy5.app/lesson/:lessonId
+Lesson player.
+
+### My Learning
+https://bayt-al-hikma-c32e5558.zappy5.app/my-learning
+Your enrolled courses and progress.
+
+### Certificate
+https://bayt-al-hikma-c32e5558.zappy5.app/certificate/:code
+Verify a course completion certificate.
+
+## Legal & Policy
+
+### Privacy Policy
+https://bayt-al-hikma-c32e5558.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://bayt-al-hikma-c32e5558.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://bayt-al-hikma-c32e5558.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About بيت الحكمة (Bayt Al-Hikma)
+Bayt Al-Hikma (House of Wisdom) is a spiritually rich Arabic educational platform founded around the teachings and biography of Maliha Muslimani, focusing on Sufism, Islamic wisdom, and self-knowledge. The platform blends free and premium content — including Sufi chants, spiritual articles, educational videos, PDF books, and private courses — all wrapped in a serene turquoise aesthetic inspired by Islamic geometric art and Mandala motifs. The overarching philosophy is captured in the timeless wisdom: 'He who knows himself knows his Lord.' The platform supports PayPal payments and offers both full subscription access and à-la-carte content purchasing.
+
+## Services/Products
+- Paid learning paths (PDF books + audio files)
+- Sufi music and chants (partially free, full access via subscription)
+- Free spiritual articles (Irfan section)
+- Free video content
+- Private course booking in Sufism and wisdom
+- Biography of Maliha Muslimani
+- Contact page
+- Subscription model with full or selective content purchase
+- PayPal payment support
+
+## Target Audience
+- People interested in Sufism, Islamic wisdom, and spiritual self-development
+- Sufi Enthusiasts
+- Islamic Wisdom Seekers
+- Spiritual Self-Developers
+
+## Industry
+Online Education & Spiritual Learning
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://bayt-al-hikma-c32e5558.zappy5.app/sitemap.xml
+- Robots: https://bayt-al-hikma-c32e5558.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://bayt-al-hikma-c32e5558.zappy5.app/llms-full.txt
+- Products (JSON): https://bayt-al-hikma-c32e5558.zappy5.app/products.json
+- Products (Google Merchant RSS): https://bayt-al-hikma-c32e5558.zappy5.app/product-feed.xml
