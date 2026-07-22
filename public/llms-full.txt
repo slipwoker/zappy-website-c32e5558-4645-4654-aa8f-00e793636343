@@ -2,13 +2,13 @@
 
 Bayt Al-Hikma (House of Wisdom) is a spiritually rich Arabic educational platform founded around the teachings and biography of Maliha Muslimani, focusing on Sufism, Islamic wisdom, and self-knowledge. The platform blends free and premium content — including Sufi chants, spiritual articles, educational videos, PDF books, and private courses — all wrapped in a serene turquoise aesthetic inspired by Islamic geometric art and Mandala motifs. The overarching philosophy is captured in the timeless wisdom: 'He who knows himself knows his Lord.' The platform supports PayPal payments and offers both full subscription access and à-la-carte content purchasing.
 
-Source: https://bayt-al-hikma-c32e5558.zappy5.app
+Source: https://example.com
 
 ---
 
 ## انطلق في رحلة معرفة الذات مجاناً — بيت الحكمة (Bayt Al-Hikma)
 
-URL: https://bayt-al-hikma-c32e5558.zappy5.app
+URL: https://example.com
 Description: منصة بيت الحكمة تفتح لك أبواب الحكمة الصوفية والتعلم الروحي. استمتع بمكتبة فيديوهات كاملة مجانية الاستخدام، أناشيد عرفانية، ومقالات ملهمة. ابدأ رحلتك الآن واكتشف سر &#39;من عرف نفسه فقد عرف ربه&#39;.
 
 انطلق في رحلة معرفة الذات مجاناً — بيت الحكمة (Bayt Al-Hikma)
@@ -498,7 +498,7 @@ Description: منصة بيت الحكمة تفتح لك أبواب الحكمة 
 
 ## اختر مسارك الروحي وابدأ التعلم الآن — بيت الحكمة (Bayt Al-Hikma)
 
-URL: https://bayt-al-hikma-c32e5558.zappy5.app/learning-paths
+URL: https://example.com/learning-paths
 Description: استكشف مسارات التعلم المصممة بعناية لتغوص في أعماق التصوف والحكمة الإسلامية. فيديوهات تعليمية كاملة مجانية الاستخدام تنتظرك لتحميلها ومشاهدتها متى شئت. اخطُ خطوتك الأولى نحو النور.
 
 اختر مسارك الروحي وابدأ التعلم الآن — بيت الحكمة (Bayt Al-Hikma)
@@ -1112,7 +1112,7 @@ PDF + صوتي
 
 ## أناشيد وسماع يوقظ الروح ويحيي القلب — بيت الحكمة (Bayt Al-Hikma)
 
-URL: https://bayt-al-hikma-c32e5558.zappy5.app/samaa-irfan
+URL: https://example.com/samaa-irfan
 Description: انغمس في عالم السماع والعرفان مع أناشيد صوفية آسرة ومقاطع فيديو كاملة مجانية. حمّلها للاستماع دون اتصال ودع كل نغمة تلامس أعماقك. اضغط واستمع لأسرار العارفين.
 
 أناشيد وسماع يوقظ الروح ويحيي القلب — بيت الحكمة (Bayt Al-Hikma)
@@ -1540,7 +1540,7 @@ Description: انغمس في عالم السماع والعرفان مع أنا�
 
 ## تأمل وتعلم بالفن الإسلامي البصري الآسر — بيت الحكمة (Bayt Al-Hikma)
 
-URL: https://bayt-al-hikma-c32e5558.zappy5.app/visual-learning
+URL: https://example.com/visual-learning
 Description: افتح عينيك على جماليات التعلم البصري المستوحاة من الزخرفة الإسلامية والماندالا. فيديوهات تعليمية مجانية كاملة ودروس بصرية مذهلة في انتظارك. ابدأ المشاهدة الآن وارتقِ بروحك.
 
 تأمل وتعلم بالفن الإسلامي البصري الآسر — بيت الحكمة (Bayt Al-Hikma)
@@ -1935,7 +1935,7 @@ Description: افتح عينيك على جماليات التعلم البصري
 
 ## اكتشف أسرار المسار الخاص وسيرة وليّة — بيت الحكمة (Bayt Al-Hikma)
 
-URL: https://bayt-al-hikma-c32e5558.zappy5.app/private-path-biography
+URL: https://example.com/private-path-biography
 Description: رحلة حميمية في سيرة مليحة مسلماني وتعاليمها الروحية الفريدة. احصل على فيديوهات حصرية كاملة مجانية الاستخدام وكتب PDF نادرة. ادخل إلى دائرة العارفين الخاصة الآن.
 
 اكتشف أسرار المسار الخاص وسيرة وليّة — بيت الحكمة (Bayt Al-Hikma)
@@ -2338,7 +2338,7 @@ Description: رحلة حميمية في سيرة مليحة مسلماني وت�
 
 ## تواصل مع بيت الحكمة واطلب نور الحقيقة — بيت الحكمة (Bayt Al-Hikma)
 
-URL: https://bayt-al-hikma-c32e5558.zappy5.app/contact
+URL: https://example.com/contact
 Description: هل لديك سؤال عن مساراتنا الروحية أو تحتاج مساعدة في الوصول للمحتوى التعليمي المجاني؟ فريق بيت الحكمة ينتظر رسالتك. اتصل بنا اليوم وافتح قناة تواصل مع منبع الحكمة.
 
 تواصل مع بيت الحكمة واطلب نور الحقيقة — بيت الحكمة (Bayt Al-Hikma)
@@ -2744,7 +2744,7 @@ Description: هل لديك سؤال عن مساراتنا الروحية أو ت
 
 ## עגלת קניות
 
-URL: https://bayt-al-hikma-c32e5558.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - بيت الحكمة (Bayt Al-Hikma)
@@ -2995,7 +2995,7 @@ Return Policy
 
 ## תשלום
 
-URL: https://bayt-al-hikma-c32e5558.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - بيت الحكمة (Bayt Al-Hikma)
@@ -3432,7 +3432,7 @@ Return Policy
 
 ## התחברות
 
-URL: https://bayt-al-hikma-c32e5558.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - بيت الحكمة (Bayt Al-Hikma)
@@ -3690,7 +3690,7 @@ Return Policy
 
 ## החשבון שלי
 
-URL: https://bayt-al-hikma-c32e5558.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - بيت الحكمة (Bayt Al-Hikma)
@@ -4103,7 +4103,7 @@ Return Policy
 
 ## ההזמנה התקבלה!
 
-URL: https://bayt-al-hikma-c32e5558.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה שנרשמת לקורס
 
 ההזמנה התקבלה! - بيت الحكمة (Bayt Al-Hikma)
@@ -4378,7 +4378,7 @@ Return Policy
 
 ## מדיניות החזרות
 
-URL: https://bayt-al-hikma-c32e5558.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: Return policy - your rights for returns and exchanges
 
 מדיניות החזרות - بيت الحكمة (Bayt Al-Hikma)
@@ -4682,7 +4682,7 @@ Return Policy
 
 ## Privacy Policy
 
-URL: https://bayt-al-hikma-c32e5558.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: Our privacy policy - how we collect, use, and protect your information
 
 Privacy Policy
@@ -4961,7 +4961,7 @@ Privacy Policy
 
 ## Accessibility Statement
 
-URL: https://bayt-al-hikma-c32e5558.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: Our accessibility statement - our commitment to digital accessibility
 
 Accessibility Statement
@@ -5249,7 +5249,7 @@ Accessibility Statement
 
 ## Terms & Conditions
 
-URL: https://bayt-al-hikma-c32e5558.zappy5.app/terms
+URL: https://example.com/terms
 Description: Terms of service - user rights and obligations
 
 Terms & Conditions
@@ -5556,7 +5556,7 @@ Terms & Conditions
 
 ## شكراً لك | بيت الحكمة
 
-URL: https://bayt-al-hikma-c32e5558.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: بيت الحكمة (Bayt Al-Hikma) - شكراً لك | بيت الحكمة
 
 شكراً لك | بيت الحكمة
@@ -5804,7 +5804,7 @@ Description: بيت الحكمة (Bayt Al-Hikma) - شكراً لك | بيت ال
 
 ## Courses
 
-URL: https://bayt-al-hikma-c32e5558.zappy5.app/courses
+URL: https://example.com/courses
 Description: Browse all available courses.
 
 - קורסים כל הקורסים
@@ -5947,7 +5947,7 @@ Loading courses…
 
 ## Courses
 
-URL: https://bayt-al-hikma-c32e5558.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: Browse courses in this category.
 
 - קורסים כל הקורסים
@@ -6093,7 +6093,7 @@ Loading courses…
 
 ## Course
 
-URL: https://bayt-al-hikma-c32e5558.zappy5.app/courses/:slug
+URL: https://example.com/courses/:slug
 Description: Course details and curriculum.
 
 - קורסים כל הקורסים
@@ -6256,7 +6256,7 @@ Already enrolled?   Log in
 
 ## Lesson
 
-URL: https://bayt-al-hikma-c32e5558.zappy5.app/lesson/:lessonId
+URL: https://example.com/lesson/:lessonId
 Description: Lesson player.
 
 - קורסים כל הקורסים
@@ -6410,7 +6410,7 @@ Next
 
 ## My Learning
 
-URL: https://bayt-al-hikma-c32e5558.zappy5.app/my-learning
+URL: https://example.com/my-learning
 Description: Your enrolled courses and progress.
 
 - קורסים כל הקורסים
@@ -6556,7 +6556,7 @@ You haven't enrolled in any courses yet.
 
 ## Certificate Verification
 
-URL: https://bayt-al-hikma-c32e5558.zappy5.app/certificate/:code
+URL: https://example.com/certificate/:code
 Description: Verify a course completion certificate.
 
 - קורסים כל הקורסים
